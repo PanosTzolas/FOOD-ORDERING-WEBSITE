@@ -35,6 +35,8 @@ final.php : If everything was executed without any errors the user is redirected
 
 ----DELIVERY----
 
+![](Delivery.gif)
+
 delivery.php : Start/End menu for the shift of the delivery.
 
 delivery_location.php : Delivery enters his location to the database so that the delivery selections can be made efficient.
@@ -49,10 +51,9 @@ delivery_stats.php : Displays data based on the selected date as well as earning
 
 getstats.php : Returns a table with data for the specific delivery.
 
-
-![](manager_delivery.gif)
-
 ----MANAGER----
+
+![](Manager.gif)
 
 manager_starting_page.php : Menu that displays quantities left and can be increased/decreased. (ajax)
 
