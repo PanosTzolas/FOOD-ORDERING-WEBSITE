@@ -79,6 +79,7 @@ if(isset($_SESSION['username'])&& $_SESSION['type']=='Delivery'){
 								$(document).ready(function(){
     							$('input:checkbox').click(function() {
         						$('input:checkbox').not(this).prop('checked', false);
+
     							});
 								});
 							</script>
